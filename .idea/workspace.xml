@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a4cc8e7-604a-43d9-867a-43149deb4297" name="Changes" comment="добавлены зависимости: фреймворк testng и указан репозиторий откуда идут библиотеки для фреймворка">
-      <change afterPath="$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/sandbox/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/sandbox/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sandbox/src/test/java/ru/stqa/sandbox/SquareTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/sandbox/Hello1.java" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/sandbox/Hello1.java" afterDir="false" />
-    </list>
+    <list default="true" id="5a4cc8e7-604a-43d9-867a-43149deb4297" name="Changes" comment="Созданы классы для вычисления площади квадрата и прямоугольника + написан первый тест + подключен testNG в Gradle" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -165,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651433461141</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Созданы классы для вычисления площади квадрата и прямоугольника + написан первый тест + подключен testNG в Gradle">
+      <created>1651436037193</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651436037193</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -195,6 +194,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="добавлен пакет" />
     <MESSAGE value="добавлены зависимости: фреймворк testng и указан репозиторий откуда идут библиотеки для фреймворка" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавлены зависимости: фреймворк testng и указан репозиторий откуда идут библиотеки для фреймворка" />
+    <MESSAGE value="Созданы классы для вычисления площади квадрата и прямоугольника + написан первый тест + подключен testNG в Gradle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Созданы классы для вычисления площади квадрата и прямоугольника + написан первый тест + подключен testNG в Gradle" />
   </component>
 </project>
